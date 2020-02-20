@@ -1,11 +1,16 @@
 public class Stack {
 
     int[] stack = new int[5];
+    int n = stack.size();
     int top = 0;
     
     public void push(int data){
-        stack[top] = data;
-        top++;
+        if(top == n){
+            System.out.println("Stack is full");
+        }else{
+            stack[top] = data;
+            top++;
+        }
     }   
     
     public int pop(){
