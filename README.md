@@ -3,7 +3,7 @@
 ### List of DataStructures are mentioned below.
 
 ### **1. Arrays - In this we will covering**
-___ 
+___
 * Create an 1d and 2d array.
 * Insert in array. 
 * Traverse an array.
@@ -12,4 +12,11 @@ ___
 * Update in array.
 ___
 
-
+### **2. Sorting Algorithms - In this we will covering**
+___
+* Bubble Sort
+* Insertion Sort
+* Merge Sort
+* Quick Sort
+* Selection Sort
+___
