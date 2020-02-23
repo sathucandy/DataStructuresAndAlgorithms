@@ -3,7 +3,7 @@
 
 ### List of DataStructures are mentioned below.
 
-** 1. Arrays **
+**##1.** **##Arrays**
 ___
 In this we will covering 
 * Create an 1d and 2d array.
