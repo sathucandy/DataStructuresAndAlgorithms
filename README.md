@@ -1,6 +1,5 @@
 # DataStructuresAndAlgorithms
 ### In this repository we will be covering all of the Datastructures and Algorithms.
-
 ### List of DataStructures are mentioned below.
 
 ### **1.** **Arrays**
