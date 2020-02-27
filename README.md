@@ -20,12 +20,12 @@ ___
 ___
 
 ### **3. Stack - In this we will covering**
-**Create Stack using Array**
+* **Create Stack using Array**
 * Push in array
 * Pop, Peek 
 * isEmpty
 * isFull
-**Create Stack using LinkedList**
+* **Create Stack using LinkedList**
 * Push in LinkedList
 * Pop, Peek 
 * isEmpty
