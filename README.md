@@ -33,7 +33,7 @@ ___
 ___
 
 ### **4. Queue - In this we will covering**
-**Create Queue using Array**
+* **Create Queue using Array**
 * enQueue in array
 * deQueue in array
 * isEmpty
