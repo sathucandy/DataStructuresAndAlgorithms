@@ -18,3 +18,25 @@ ___
 * Quick Sort
 * Selection Sort
 ___
+
+### **3. Stack - In this we will covering**
+* Create Stack using Array
+* Push in array
+* Pop, Peek 
+* isEmpty
+* isFull
+* Create Stack using LinkedList
+* Push in LinkedList
+* Pop, Peek 
+* isEmpty
+* isFull
+___
+
+### **4. Queue - In this we will covering**
+* Create Queue using Array
+* enQueue in array
+* deQueue in array
+* isEmpty
+* isFull
+* delete
+___
