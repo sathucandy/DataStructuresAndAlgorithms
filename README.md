@@ -20,7 +20,7 @@ ___
 ___
 
 ### **3. Stack - In this we will covering**
-* Create Stack using Array
+**Create Stack using Array**
 * Push in array
 * Pop, Peek 
 * isEmpty
@@ -33,7 +33,7 @@ ___
 ___
 
 ### **4. Queue - In this we will covering**
-* Create Queue using Array
+**Create Queue using Array**
 * enQueue in array
 * deQueue in array
 * isEmpty
