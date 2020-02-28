@@ -39,4 +39,11 @@ ___
 * isEmpty
 * isFull
 * delete
+
+* **Create Circular Queue using Array**
+* enQueue in array
+* deQueue in array
+* isEmpty
+* isFull
+* delete
 ___
